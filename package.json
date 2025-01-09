@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@mscdex/eslint-config": "^1.1.0",
-    "eslint": "^7.32.0"
+    "eslint": "^9.17.0"
   },
   "scripts": {
     "test": "node test/test.js",
